@@ -26,11 +26,11 @@ main{
     min-height: 343px;
     align-items: center;
     position: absolute;
-    margin-top: 28vh;
+    margin-top: 27vh;
 
     @include desktop(){
         width: 540px;
-        height: 360px;
+        height: 340px;
     }
 }
 h1{
