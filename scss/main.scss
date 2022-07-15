@@ -58,7 +58,8 @@ p{
           overflow: hidden;
       }
       @include desktop(){
-        margin-left: 120px;
+        width: 420px;
+        margin-left: 60px;
         &::after {
             content: url(../images/pattern-divider-desktop.svg);
               padding: 20px;

@@ -60,7 +60,8 @@ p::after {
 }
 @media (min-width: 600px) {
   p {
-    margin-left: 120px;
+    width: 420px;
+    margin-left: 60px;
   }
   p::after {
     content: url(../images/pattern-divider-desktop.svg);
