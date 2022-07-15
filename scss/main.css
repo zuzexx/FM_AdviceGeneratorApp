@@ -23,7 +23,7 @@ main {
   min-height: 343px;
   align-items: center;
   position: absolute;
-  margin-top: 20vh;
+  margin-top: 28vh;
 }
 @media (min-width: 600px) {
   main {
